@@ -92,6 +92,8 @@ export const App = () => {
         top='300' 
         color='#0bb3c9' 
         smooth='true' 
+        viewBox="0 0 32 32"
+        svgPath="M16 1l-15 15h9v16h12v-16h9z"
         style={{backgroundColor: '#f4f4f4', opacity: 0.6}} 
         />
     </div>
